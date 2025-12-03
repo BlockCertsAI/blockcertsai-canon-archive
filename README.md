@@ -18,7 +18,7 @@ All content here is considered canonical for:
 - The Proof Economy
 - BAINCA — Sovereign Servers
 - The Digital Dozen — On-Chain Enterprise Proof of Concept
-- - Your Digital Home
+- Your Digital Home
 - Agentic Digital Twin (ADT)
 - The Architect
 
