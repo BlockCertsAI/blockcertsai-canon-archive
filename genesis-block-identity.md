@@ -30,3 +30,9 @@ Access control becomes deterministic, tamper-proof, and user-rooted — a massiv
 This architecture supports the four pillars of Web4: **governance, commerce, collaboration, and privacy**. It provides the trust layer the internet never had and the compliance layer enterprises and governments have always needed.
 
 BCAI’s Genesis Block KYC is the breakthrough that finally turns digital identity, access, and sovereignty into **infrastructure** — not an afterthought.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
