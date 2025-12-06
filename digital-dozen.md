@@ -87,3 +87,9 @@ It now stands as:
 - The **bridge between SaaS and sovereign infrastructure**
 
 It marks the moment the platform crossed from *concept* into *functional reality*.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
