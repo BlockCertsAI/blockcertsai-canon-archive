@@ -146,3 +146,8 @@ It transforms AI from advisory output into enforceable action.
 It transforms blockchain from passive ledger into sovereign operating infrastructure.
 
 The ADT is the missing execution layer that finally allows blockchain to scale into enterprise, government, healthcare, finance, and real-world economic systems — safely, lawfully, and without disruption.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
