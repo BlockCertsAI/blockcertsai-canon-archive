@@ -37,3 +37,7 @@ Proof of Authentication (PoA): Every wallet and transaction is verified at the i
 Proof of Authority: A handful of approved nodes validate transactions. It’s faster than mining but still centralized, and trust depends on the validators.
 BlockCertsAI runs on Proof of Authentication. That’s why it scales in regulated industries — identity and compliance aren’t bolted on later, they’re baked into the DNA of the chain.
 
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
