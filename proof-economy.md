@@ -103,3 +103,10 @@ It will be **owned, proven, and governed by its users.**
 The future now has a root of trust — **where privacy returns by design.**
 
 [The Proof Economy Manifesto](https://www.notion.so/The-Proof-Economy-Manifesto-2bd569ca8ad281308e63ee8303e372d0?pvs=21)
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
+
