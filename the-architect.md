@@ -180,3 +180,10 @@ It transforms decentralization from fragile coordination into durable sovereign 
 The Architect is not software.
 
 It is the **control law of the authenticated internet**.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
+
