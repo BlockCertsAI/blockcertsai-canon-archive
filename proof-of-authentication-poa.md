@@ -86,3 +86,9 @@ PoA builds lawful economies on-chain.
 This is not cheaper crypto.
 
 This is **civilization-scale digital infrastructure**.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
