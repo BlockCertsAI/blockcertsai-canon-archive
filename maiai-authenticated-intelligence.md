@@ -47,3 +47,9 @@ Enterprises deploy private MAIAi instances that operate only on verified data, w
 ### Summary Positioning
 
 MAIAi is the authenticated intelligence engine that delivers deterministic AI, real-time security, sovereign automation, and regulator-grade explainability for the next generation of trusted digital infrastructure.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
