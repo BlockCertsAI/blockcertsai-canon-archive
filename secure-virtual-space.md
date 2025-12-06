@@ -89,3 +89,10 @@ SVS is the essential building block of the Digital Home and the heart of real di
 With Genesis KYC, PoA, and MAIAi, it gives the internet what it never had:
 
 a private, authenticated, user-owned space where identity, data, AI, and security finally align.
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
+
