@@ -320,3 +320,9 @@ https://searchexplorer.blockcerts.io/
 For the full ecosystem explainer, view the [white paper](https://medium.com/@ahassall/blockcertsai-white-paper-edc69f9b169e) here
 
 **Join the BlockCertsAI** [Telegram](https://www.notion.so/@blockcerts)
+
+Additional Editions:
+Medium: https://medium.com/@fr8trplt
+Notion Index: https://www.notion.so/BlockCertsAI-Research-Archive-2bd569ca8ad280638267c330e968b22a
+Substack: https://fr8trplt.substack.com
+
